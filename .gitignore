@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+package.json
+package-lock.json
+postcss.config.js
+tailwind.js
+
 # testing
 /coverage
 
